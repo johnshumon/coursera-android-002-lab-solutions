@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings"/>
+
+</menu><!-- From: file:/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab3-Fragments/FragmentLab/app/src/main/res/menu/activity_friends.xml -->
