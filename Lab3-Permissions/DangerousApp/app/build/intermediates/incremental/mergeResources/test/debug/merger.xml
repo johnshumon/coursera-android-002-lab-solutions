@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab3-Intents-Intents/Intents/SourceFiles/DangerousApp/app/src/androidTest/res" />
+        <source path="/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab3-Intents-Intents/Intents/SourceFiles/DangerousApp/app/build/generated/res/rs/test/debug" />
+        <source path="/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab3-Intents-Intents/Intents/SourceFiles/DangerousApp/app/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>
