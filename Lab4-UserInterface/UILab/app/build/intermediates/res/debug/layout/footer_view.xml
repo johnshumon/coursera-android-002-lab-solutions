@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/footerView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:text="@string/add_new_todo_item_string"
+    android:textSize="24sp"
+    android:paddingTop="@dimen/activity_horizontal_margin"
+    android:textColor="#ff000000">
+
+</TextView><!-- From: file:/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab4-UserInterface/UILab/app/src/main/res/layout/footer_view.xml -->

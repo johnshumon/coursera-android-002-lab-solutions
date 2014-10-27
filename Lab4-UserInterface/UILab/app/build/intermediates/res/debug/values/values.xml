@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab4-UserInterface/UILab/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab4-UserInterface/UILab/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="add_new_todo_item_string">Add New ToDo Item</string>
+    <string name="app_name">UILabs</string>
+    <string name="cancel_string">CANCEL</string>
+    <string name="choose_date_string">CHOOSE DATE</string>
+    <string name="choose_time_string">CHOOSE TIME</string>
+    <string name="date_string">Date:</string>
+    <string name="done_string">Done:</string>
+    <string name="enter_title_string">Enter Title</string>
+    <string name="no_date_set_string">0000-00-00</string>
+    <string name="no_time_set_string">00:00:00</string>
+    <string name="not_done_string">Not Done</string>
+    <string name="priority_high_string">High</string>
+    <string name="priority_low_string">Low</string>
+    <string name="priority_medium_string">Medium</string>
+    <string name="priority_string">PRIORITY</string>
+    <string name="reset_string">RESET</string>
+    <string name="status_string">STATUS</string>
+    <string name="submit_string">SUBMIT</string>
+    <string name="time_and_date_string">TIME AND DATE</string>
+    <string name="title_string">TITLE</string>
+
+</resources>
