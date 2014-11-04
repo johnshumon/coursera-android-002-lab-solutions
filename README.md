@@ -25,7 +25,7 @@ Solutions for Lab assignments and projects given in the course.
 
 ## Week 5
 
-*
+* [Lab5-NotificationsLab](./Lab5-NotificationLab/)
 
 ## Week 6
 
