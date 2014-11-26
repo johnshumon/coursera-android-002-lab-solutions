@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/kutimuti/workspace/AndroidStudioProject/PMA_androids_labs/Lab6-GraphicsAndTouchLab/GraphicLab/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">GraphicsLab</string>
+    <string name="quit_string">Quit</string>
+    <string name="random_speed_mode_string">Random Speed Mode</string>
+    <string name="single_speed_mode_string">Single Speed Mode</string>
+    <string name="still_mode_string">Still Mode</string>
+</resources>
