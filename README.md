@@ -29,12 +29,12 @@ Solutions for Lab assignments and projects given in the course.
 
 ## Week 6
 
-*
+* [Lab6-GraphicsAndTouch](./Lab6-GraphicsAndTouch/)
 
 ## Week 7
 
-* 
+* [Lab7-LocationLab](./Lab7-LocationLab/)
 
 ## Week 8
 
-* 
+* [Lab8-ContentProvider](./Lab8-ContentProvider/)
