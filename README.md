@@ -22,6 +22,7 @@ Solutions for Lab assignments and projects given in the course.
 ## Week 4
 
 * [Lab4-UserInterface](./Lab4-UserInterface/)
+* [Lab4-MiniProject](./ModernArtUI/)
 
 ## Week 5
 
