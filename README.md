@@ -39,3 +39,4 @@ Solutions for Lab assignments and projects given in the course.
 ## Week 8
 
 * [Lab8-ContentProvider](./Lab8-ContentProvider/)
+* [Lab8-2nd-MiniProject](./SelfieMania/)
