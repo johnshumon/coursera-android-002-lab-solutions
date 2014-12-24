@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/take_pic"
+        android:icon="@drawable/camera2"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Take Pic"/>
+    
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/btn_help"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Help"/>
+    
+    <!--<item-->
+        <!--android:id="@+id/alarm_disable"-->
+        <!--android:icon="@drawable/alarm_disable"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:showAsAction="never"-->
+        <!--android:title="Disable Auto Notification"/>-->
+
+</menu>
